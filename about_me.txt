@@ -1,3 +1,0 @@
-name : Farouk
-age : 29
-country : Morocco
